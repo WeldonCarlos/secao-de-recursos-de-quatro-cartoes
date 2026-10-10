@@ -1,4 +1,43 @@
-# secao-de-recursos-de-quatro-cartoes
+# Seção de Recursos · Quatro Cartões
+
+Estudo de layout em CSS para apresentar quatro cartões de funcionalidades com ícones.
+
+## O que o projeto apresenta
+
+- Cartões Supervisor, Calculadora, Equipe e Karma no markup original.
+- Arquivo de estilos e ícones SVG.
+- Organização visual de blocos horizontais e verticais.
+
+## Tecnologias
+
+HTML · CSS
+
+## Executar localmente
+
+Consulte o HTML original ao final deste README. O repositório não possui atualmente uma página HTML executável na raiz.
+
+## Estrutura
+
+- `README.md`
+- `favicon-32x32.png`
+- `icon-calculator.svg`
+- `icon-karma.svg`
+- `icon-supervisor.svg`
+- `icon-team-builder.svg`
+- `style.css`
+
+## Estado atual
+
+O HTML original foi armazenado no próprio README, sem arquivo `index.html`. Ele é preservado abaixo para consulta. Para uma página executável, salve o trecho em um arquivo HTML e ajuste os caminhos de imagens para os arquivos existentes.
+
+## Autoria
+
+[Weldon Carlos](https://github.com/WeldonCarlos) · [LinkedIn](https://www.linkedin.com/in/weldon-carlos-41b488231/)
+
+<details>
+<summary>HTML original preservado</summary>
+
+```html
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -97,3 +136,7 @@
     
 </body>
 </html>
+
+```
+
+</details>
